@@ -1,6 +1,5 @@
 (function(){
   "use strict";
-
   // include index.html for webpack to load
   require("./index.html");
 
